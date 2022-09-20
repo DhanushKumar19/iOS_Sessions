@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04C6887C-227A-4009-968F-618B44BBAD2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55AAC124-BD38-4CB4-AEE9-B2E66D1B7501"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCA_Demo_part1/AppViewFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "55AAC124-BD38-4CB4-AEE9-B2E66D1B7501 - 9292c73688c63fc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; TCA_Demo_part1.AppAction in closure #1 (inout TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment) -&gt; ComposableArchitecture.Effect&lt;TCA_Demo_part1.AppAction, Swift.Never&gt; in variable initialization expression of TCA_Demo_part1.appReducer : ComposableArchitecture.Reducer&lt;TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment&gt;"
+                  moduleName = "TCA_Demo_part1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhanushkumar/Desktop/Xcode%20Session/TCA_Demo_part1/TCA_Demo_part1/AppViewFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "55AAC124-BD38-4CB4-AEE9-B2E66D1B7501 - c9d5ab079d68fa93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; TCA_Demo_part1.AppAction in closure #1 (inout TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment) -&gt; ComposableArchitecture.Effect&lt;TCA_Demo_part1.AppAction, Swift.Never&gt; in variable initialization expression of TCA_Demo_part1.appReducer : ComposableArchitecture.Reducer&lt;TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment&gt;"
+                  moduleName = "TCA_Demo_part1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhanushkumar/Desktop/Xcode%20Session/TCA_Demo_part1/TCA_Demo_part1/AppViewFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "55AAC124-BD38-4CB4-AEE9-B2E66D1B7501 - 541adc30641c7b4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; TCA_Demo_part1.AppAction in closure #1 (inout TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment) -&gt; ComposableArchitecture.Effect&lt;TCA_Demo_part1.AppAction, Swift.Never&gt; in variable initialization expression of TCA_Demo_part1.appReducer : ComposableArchitecture.Reducer&lt;TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment&gt;"
+                  moduleName = "TCA_Demo_part1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhanushkumar/Desktop/Xcode%20Session/TCA_Demo_part1/TCA_Demo_part1/AppViewFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "55AAC124-BD38-4CB4-AEE9-B2E66D1B7501 - 3966decf7207590d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; TCA_Demo_part1.AppAction in closure #1 (inout TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment) -&gt; ComposableArchitecture.Effect&lt;TCA_Demo_part1.AppAction, Swift.Never&gt; in variable initialization expression of TCA_Demo_part1.appReducer : ComposableArchitecture.Reducer&lt;TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment&gt;"
+                  moduleName = "TCA_Demo_part1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhanushkumar/Desktop/Xcode%20Session/TCA_Demo_part1/TCA_Demo_part1/AppViewFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "55AAC124-BD38-4CB4-AEE9-B2E66D1B7501 - 4f8452b59e75183d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async throws -&gt; Swift.String in closure #1 @Sendable () async -&gt; TCA_Demo_part1.AppAction in closure #1 (inout TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment) -&gt; ComposableArchitecture.Effect&lt;TCA_Demo_part1.AppAction, Swift.Never&gt; in variable initialization expression of TCA_Demo_part1.appReducer : ComposableArchitecture.Reducer&lt;TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment&gt;"
+                  moduleName = "TCA_Demo_part1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhanushkumar/Desktop/Xcode%20Session/TCA_Demo_part1/TCA_Demo_part1/AppViewFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "55AAC124-BD38-4CB4-AEE9-B2E66D1B7501 - e89733d662ef65a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async throws -&gt; Swift.String in closure #1 @Sendable () async -&gt; TCA_Demo_part1.AppAction in closure #1 (inout TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment) -&gt; ComposableArchitecture.Effect&lt;TCA_Demo_part1.AppAction, Swift.Never&gt; in variable initialization expression of TCA_Demo_part1.appReducer : ComposableArchitecture.Reducer&lt;TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment&gt;"
+                  moduleName = "TCA_Demo_part1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhanushkumar/Desktop/Xcode%20Session/TCA_Demo_part1/TCA_Demo_part1/AppViewFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "55AAC124-BD38-4CB4-AEE9-B2E66D1B7501 - c125e023cf367a88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async throws -&gt; Swift.String in closure #1 @Sendable () async -&gt; TCA_Demo_part1.AppAction in closure #1 (inout TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment) -&gt; ComposableArchitecture.Effect&lt;TCA_Demo_part1.AppAction, Swift.Never&gt; in variable initialization expression of TCA_Demo_part1.appReducer : ComposableArchitecture.Reducer&lt;TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment&gt;"
+                  moduleName = "TCA_Demo_part1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhanushkumar/Desktop/Xcode%20Session/TCA_Demo_part1/TCA_Demo_part1/AppViewFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "55AAC124-BD38-4CB4-AEE9-B2E66D1B7501 - 418f4d95a2c9d88b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; Swift.String in closure #1 @Sendable () async -&gt; TCA_Demo_part1.AppAction in closure #1 (inout TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment) -&gt; ComposableArchitecture.Effect&lt;TCA_Demo_part1.AppAction, Swift.Never&gt; in variable initialization expression of TCA_Demo_part1.appReducer : ComposableArchitecture.Reducer&lt;TCA_Demo_part1.AppState, TCA_Demo_part1.AppAction, TCA_Demo_part1.AppEnvironment&gt;"
+                  moduleName = "TCA_Demo_part1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhanushkumar/Desktop/Xcode%20Session/TCA_Demo_part1/TCA_Demo_part1/AppViewFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73AC04B2-3A46-4EDD-A131-8131F6454B0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCA_Demo_part1/AppViewFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
